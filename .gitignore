@@ -16,3 +16,6 @@ Build
 *.csproj
 *.unityproj
 *.sln
+
+# Example files
+Assets/Orthello/Exam*
