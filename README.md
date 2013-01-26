@@ -1,6 +1,8 @@
 Oh Mines God
 ============
 
+**STATUS: Temporarily Abandoned**
+
 Work in progress! Potential [Global Game Jam 2013](http://globalgamejam.org) entry.
 
 ## Multiplayer cooperative minesweeper
