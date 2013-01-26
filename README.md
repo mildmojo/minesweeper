@@ -1,0 +1,4 @@
+minesweeper
+===========
+
+Multiplayer cooperative minesweeper
